@@ -3,5 +3,5 @@ Collection of my graduate school machine learning activities, exercises, and hom
 
 | Algorithm | Dataset | Link | Remarks |
 | --- | --- | --- | --- |
-| Logistic Regression | Diabetes | Logistic_Regression_Diabetes Dataset.ipynb | 74% Accuracy (For improvement), prompt the user for input values to predict whether an individual has diabetes or not |
+| Logistic Regression | Diabetes | [Logistic_Regression_Diabetes Dataset.ipynb](https://github.com/cyesha/ML-Notebooks/blob/main/Logistic_Regression_Diabetes%20Dataset.ipynb) | 74% Accuracy (For improvement), prompt the user for input values to predict whether an individual has diabetes or not |
 
