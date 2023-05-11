@@ -4,4 +4,5 @@ Collection of my graduate school machine learning activities, exercises, and hom
 | Algorithm | Dataset | Link | Remarks |
 | --- | --- | --- | --- |
 | Logistic Regression | [Diabetes Dataset](https://github.com/cyesha/Dataset-Links/blob/main/About%20Diabetes%20Dataset.md) | [Logistic_Regression_Diabetes Dataset.ipynb](https://github.com/cyesha/ML-Notebooks/blob/main/Logistic_Regression_Diabetes%20Dataset.ipynb) | 74% Accuracy (For improvement), prompt the user for input values to predict whether an individual has diabetes or not |
+| Random Forest Classifier | [Iris Dataset](https://github.com/cyesha/Dataset-Links/blob/main/About%20Iris%20Flower%20Dataset.md) | [Random Forest_Iris Dataset.ipynb](https://github.com/cyesha/ML-Notebooks/blob/main/Random%20Forest_Iris%20Dataset.ipynb) | 96% accuracy, determines the Species of iris |
 
